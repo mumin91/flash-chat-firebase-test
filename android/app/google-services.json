@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909419255351",
+    "project_id": "flash-chat-87567",
+    "storage_bucket": "flash-chat-87567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909419255351:android:7510294a42aed3976911b2",
+        "android_client_info": {
+          "package_name": "me.mumin.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909419255351-u1jkpqse05nmd9ua2bes95jcch3jo9g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCljcadlObnIhg-KpU4SY8FC_wEYVoZ144"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909419255351-u1jkpqse05nmd9ua2bes95jcch3jo9g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
